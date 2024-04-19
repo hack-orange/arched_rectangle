@@ -18,3 +18,5 @@ Creates a clipping with an arc at the bottom starting from the top.
 ### CustomArcRightClipper
 CustomArcRightClipper(arcWidth: double)
 Creates a clipping with an arc at the bottom starting from the right edge.
+
+![Uploading image.png…]()
