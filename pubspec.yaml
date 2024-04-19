@@ -1,7 +1,7 @@
 name: arched_rectangle
 description: "This repository contains four custom clipping shapes for creating various shapes of clippings in Flutter applications."
 version: 0.0.1
-homepage:
+homepage: https://github.com/hack-orange/arched_rectangle
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
